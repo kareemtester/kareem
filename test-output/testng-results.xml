@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+      <class name="org.login.Test2">
+        <test-method status="PASS" signature="tc26()[pri:0, instance:org.login.Test2@4667ae56]" name="tc26" is-config="true" duration-ms="0" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc26 -->
+        <test-method status="PASS" signature="tc24()[pri:0, instance:org.login.Test2@4667ae56]" name="tc24" duration-ms="0" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc24 -->
+        <test-method status="PASS" signature="tc23()[pri:0, instance:org.login.Test2@4667ae56]" name="tc23" is-config="true" duration-ms="0" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc23 -->
+        <test-method status="PASS" signature="tc22()[pri:0, instance:org.login.Test2@4667ae56]" name="tc22" is-config="true" duration-ms="0" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc22 -->
+        <test-method status="PASS" signature="tc25()[pri:0, instance:org.login.Test2@4667ae56]" name="tc25" is-config="true" duration-ms="0" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc25 -->
+        <test-method status="PASS" signature="tc42()[pri:0, instance:org.login.Test4@77cd7a0]" name="tc42" is-config="true" duration-ms="0" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc42 -->
+        <test-method status="PASS" signature="tc21()[pri:0, instance:org.login.Test2@4667ae56]" name="tc21" is-config="true" duration-ms="0" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc21 -->
+      </class> <!-- org.login.Test2 -->
+      <class name="org.login.Test1">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.login.Test1@548e7350]" name="tc1" is-config="true" duration-ms="0" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc7()[pri:0, instance:org.login.Test1@548e7350]" name="tc7" is-config="true" duration-ms="0" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc7 -->
+        <test-method status="PASS" signature="tc37()[pri:0, instance:org.login.Test3@1a968a59]" name="tc37" is-config="true" duration-ms="0" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc37 -->
+        <test-method status="PASS" signature="tc6()[pri:0, instance:org.login.Test1@548e7350]" name="tc6" is-config="true" duration-ms="0" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc6 -->
+        <test-method status="PASS" signature="tc4()[pri:0, instance:org.login.Test1@548e7350]" name="tc4" duration-ms="0" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.login.Test1@548e7350]" name="tc2" is-config="true" duration-ms="0" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc5()[pri:0, instance:org.login.Test1@548e7350]" name="tc5" is-config="true" duration-ms="0" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5 -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:org.login.Test1@548e7350]" name="tc3" is-config="true" duration-ms="0" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- org.login.Test1 -->
+      <class name="org.login.Test4">
+        <test-method status="PASS" signature="tc47()[pri:0, instance:org.login.Test4@77cd7a0]" name="tc47" is-config="true" duration-ms="0" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc47 -->
+        <test-method status="PASS" signature="tc45()[pri:0, instance:org.login.Test4@77cd7a0]" name="tc45" duration-ms="0" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc45 -->
+        <test-method status="PASS" signature="tc44()[pri:0, instance:org.login.Test4@77cd7a0]" name="tc44" is-config="true" duration-ms="0" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc44 -->
+        <test-method status="PASS" signature="tc46()[pri:0, instance:org.login.Test4@77cd7a0]" name="tc46" is-config="true" duration-ms="0" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc46 -->
+        <test-method status="PASS" signature="tc43()[pri:0, instance:org.login.Test4@77cd7a0]" name="tc43" is-config="true" duration-ms="0" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc43 -->
+        <test-method status="PASS" signature="tc48()[pri:0, instance:org.login.Test4@77cd7a0]" name="tc48" is-config="true" duration-ms="0" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc48 -->
+      </class> <!-- org.login.Test4 -->
+      <class name="org.login.Test3">
+        <test-method status="PASS" signature="tc33()[pri:0, instance:org.login.Test3@1a968a59]" name="tc33" is-config="true" duration-ms="1" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc33 -->
+        <test-method status="PASS" signature="tc36()[pri:0, instance:org.login.Test3@1a968a59]" name="tc36" is-config="true" duration-ms="0" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc36 -->
+        <test-method status="PASS" signature="tc34()[pri:0, instance:org.login.Test3@1a968a59]" name="tc34" duration-ms="0" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc34 -->
+        <test-method status="PASS" signature="tc32()[pri:0, instance:org.login.Test3@1a968a59]" name="tc32" is-config="true" duration-ms="0" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc32 -->
+        <test-method status="PASS" signature="tc35()[pri:0, instance:org.login.Test3@1a968a59]" name="tc35" is-config="true" duration-ms="0" started-at="2021-10-30T06:49:13Z" finished-at="2021-10-30T06:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc35 -->
+      </class> <!-- org.login.Test3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
